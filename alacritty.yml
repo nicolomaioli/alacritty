@@ -22,6 +22,9 @@ font:
     style: Bold Italic
   size: 14
 
+key_bindings:
+  - { key: F11, action: ToggleFullscreen }
+
 colors:
   # Current theme: Nord
   # https://github.com/arcticicestudio/nord-alacritty
