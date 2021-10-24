@@ -24,6 +24,8 @@ font:
 
 key_bindings:
   - { key: F11, action: ToggleFullscreen }
+  - { key: E, mods: Alt, chars: "\x1be" }
+  - { key: V, mods: Alt, chars: "\x1bv" }
 
 colors:
   # Current theme: Nord
