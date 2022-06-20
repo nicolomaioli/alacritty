@@ -1,4 +1,4 @@
 # Alacritty
 
-- Install FuraCode Nerd Font
+- Install Fira Code Nerd Font
 - Clone to `$HOME/.config/alacritty`
