@@ -8,6 +8,9 @@ window:
     x: 10
     y: 10
 
+import:
+  - ~/.config/alacritty/themes/dracula.yml
+
 font:
   normal:
     family: FiraCode Nerd Font
