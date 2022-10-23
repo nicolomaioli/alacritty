@@ -7,6 +7,9 @@ window:
     x: 10
     y: 10
 
+import:
+  - ~/.local/share/nvim/site/pack/packer/start/onedarkpro.nvim/extras/alacritty_onedark.yml
+
 font:
   normal:
     family: FiraCode Nerd Font
