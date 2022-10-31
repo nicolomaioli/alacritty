@@ -8,7 +8,7 @@ window:
     y: 10
 
 import:
-  - ~/.local/share/nvim/site/pack/packer/start/onedarkpro.nvim/extras/alacritty_onedark.yml
+  - ~/.local/share/nvim/site/pack/packer/start/tokyonight.nvim/extras/alacritty/tokyonight_storm.yml
 
 font:
   normal:
