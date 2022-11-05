@@ -23,7 +23,7 @@ font:
   bold_italic:
     family: FiraCode Nerd Font
     style: Bold Italic
-  size: 12
+  size: 11
 
 key_bindings:
   - { key: F11, action: ToggleFullscreen }
