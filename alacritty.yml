@@ -1,8 +1,9 @@
 env:
-  LANG: "en_GB.UTF-8"
+  LANG: en_GB.UTF-8
 
 window:
-  startup_mode: "Maximized"
+  startup_mode: Maximized
+  decorations_theme_variant: None
   padding:
     x: 10
     y: 10
@@ -12,16 +13,16 @@ import:
 
 font:
   normal:
-    family: FiraCode Nerd Font
+    family: Hack Nerd Font
     style: Regular
   bold:
-    family: FiraCode Nerd Font
+    family: Hack Nerd Font
     style: Bold
   italic:
-    family: FiraCode Nerd Font
+    family: Hack Nerd Font
     style: Italic
   bold_italic:
-    family: FiraCode Nerd Font
+    family: Hack Nerd Font
     style: Bold Italic
   size: 11
 
